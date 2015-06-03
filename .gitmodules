@@ -1,0 +1,3 @@
+[submodule "Instarepos/subModules/octokit.objc"]
+	path = Instarepos/subModules/octokit.objc
+	url = https://github.com/octokit/octokit.objc.git
